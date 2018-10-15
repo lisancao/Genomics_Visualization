@@ -1,0 +1,14 @@
+Visualizations 
+
+Basics: 
+-Heatmaps
+-Circos plots 
+-GWAS
+-scatterplots (ggplot2)
+-Peaks etc
+
+
+
+Experimental: 
+-Swarm intelligence? 
+-gganimate/animated plotly
